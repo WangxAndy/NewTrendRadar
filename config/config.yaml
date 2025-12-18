@@ -162,8 +162,6 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
-  - id: "wallstreetcn-hot"
-    name: "华尔街见闻 最热"
   - id: "wallstreetcn-quick"
     name: "华尔街见闻 快讯"
   - id: "wallstreetcn-news"
@@ -176,8 +174,6 @@ platforms:
     name: "金十数据"
   - id: "zaobao"
     name: "联合早报"
-  - id: "thepaper"
-    name: "澎湃新闻"
   - id: "cls-hot"
     name: "财联社热门"
   - id: "ifeng"

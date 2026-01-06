@@ -166,8 +166,6 @@ platforms:
     name: "Hacker News"
   - id: "github"
     name: "GitHub"
-  - id: "ithome"
-    name: "IT之家"
   - id: "wallstreetcn-hot"
     name: "华尔街见闻"
   - id: "zaobao"
@@ -176,6 +174,8 @@ platforms:
     name: "腾讯新闻"
   - id: "cls-hot"
     name: "财联社"
+  - id: "ithome"
+    name: "IT之家"
   - id: "zhihu"
     name: "知乎"
   
